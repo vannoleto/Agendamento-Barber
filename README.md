@@ -1,6 +1,9 @@
 # Agendamento-Barber ✂️💈
 Agendamento de serviços para barbearia com integração ao WhatsApp, desenvolvido em React com Material-UI.
 
+![image](https://github.com/vannoleto/Agendamento-Barber/assets/81515355/a925373b-71f6-4228-bbd4-908a633cc981)
+
+
 ## Funcionamento
 
 Este projeto permite que os clientes agendem serviços em uma barbearia preenchendo um formulário com as seguintes informações:
